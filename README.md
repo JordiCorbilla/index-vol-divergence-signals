@@ -25,6 +25,7 @@ This repository provides a **volatility-based trading strategy** for the S&P 500
 5. **Plotting**  
    - Generates a chart showing SPY price, the Bollinger bands, and entry/exit signals.  
 ![](https://github.com/JordiCorbilla/index-vol-divergence-signals/raw/main/riskoptima_index_vol_divergence_signals_entry_20250316_200414.png)
+![](https://github.com/JordiCorbilla/index-vol-divergence-signals/raw/main/riskoptima_index_vol_divergence_signals_entry_exit_20250316_200415.png)
 
 ## Example Usage
 
