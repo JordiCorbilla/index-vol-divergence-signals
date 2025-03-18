@@ -37,6 +37,7 @@ ANALYSIS_END_DATE   = RiskOptima.get_previous_working_day()
 
 df_signals, df_exits, returns = RiskOptima.run_index_vol_divergence_signals(start_date=ANALYSIS_START_DATE, 
                                                                             end_date=ANALYSIS_END_DATE)
+```
 
 ### Support me
 
